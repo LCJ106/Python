@@ -1,3 +1,4 @@
+# coding=utf-8
 import socket
 messages = ['Hello,world! ','Are you happy?']
 server_address = ('localhost', 9998)
